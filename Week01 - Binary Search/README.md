@@ -5,6 +5,8 @@ If you would like to see the visualizations of the Binary and Linear Search (of 
 
 [Binary Search Animation](https://www.cs.usfca.edu/~galles/visualization/Search.html)
 
+---
+
 Have a nice day! 😊
 
 -First
