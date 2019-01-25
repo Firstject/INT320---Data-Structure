@@ -11,7 +11,7 @@
 
 ## หัวข้อการเรียนรู้
 - [x] Introduction Algorithm analysis
-- [ ] Lists
+- [x] Lists
 - [ ] Stacks & Queues 
 - [ ] Trees 
   - [ ] Binary Trees 
