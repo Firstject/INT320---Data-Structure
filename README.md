@@ -13,7 +13,7 @@
 - [x] Introduction Algorithm analysis
 - [x] Lists
 - [x] Stacks & Queues 
-- [ ] Trees 
+- [x] Trees 
   - [ ] Binary Trees 
   - [ ] Binary Search Trees 
   - [ ] Balance Binary Search Trees 
