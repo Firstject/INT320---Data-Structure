@@ -1,0 +1,9 @@
+NetBeans IDE and NetBeans Platform are based on software from netbeans.org, 
+which has been dual licensed under the Common Development and Distribution License (CDDL) 
+and the GNU General Public License version 2 with Classpath exception. For more information, 
+please visit www.netbeans.org.
+Press F1 in any part of the IDE to open a help topic that is specific to the task you are doing or where you are in the IDE.
+Searching the Online Help
+To perform a full-text search of all IDE F1 help topics, click the Search tab and type a keyword in the Find text box.
+Online Tutorials
+For tutorials on using NetBeans IDE, visit the following link:
