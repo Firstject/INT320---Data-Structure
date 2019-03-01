@@ -14,11 +14,11 @@
 - [x] Lists
 - [x] Stacks & Queues 
 - [x] Trees 
-  - [ ] Binary Trees 
-  - [ ] Binary Search Trees 
-  - [ ] Balance Binary Search Trees 
+  - [x] Binary Trees 
+  - [x] Binary Search Trees 
+  - [x] Balance Binary Search Trees 
 - [ ] Binary Heaps & Priority Queue 
-- [ ] Hash Table 
+- [x] Hash Table 
 - [ ] Graphs 
 - [ ] Sorting 
 
