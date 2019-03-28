@@ -17,7 +17,7 @@
   - [x] Binary Trees 
   - [x] Binary Search Trees 
   - [x] Balance Binary Search Trees 
-- [ ] Binary Heaps & Priority Queue 
+- [x] Binary Heaps & Priority Queue 
 - [x] Hash Table 
 - [ ] Graphs 
 - [ ] Sorting 
