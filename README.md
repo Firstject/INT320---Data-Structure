@@ -19,7 +19,7 @@
   - [x] Balance Binary Search Trees 
 - [x] Binary Heaps & Priority Queue 
 - [x] Hash Table 
-- [ ] Graphs 
+- [ ] **Graphs** 
 - [ ] Sorting 
 
 ## โจทย์
